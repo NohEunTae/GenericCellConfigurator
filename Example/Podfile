@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GenericCellConfigurator_Example' do
+  pod 'GenericCellConfigurator', :path => '../'
+
+  target 'GenericCellConfigurator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
