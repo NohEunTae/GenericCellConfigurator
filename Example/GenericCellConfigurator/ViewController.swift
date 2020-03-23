@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import GenericCellConfigurator
 
 class ViewController: UIViewController {
 

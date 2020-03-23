@@ -1,0 +1,6 @@
+framework module GenericCellConfigurator {
+  umbrella header "GenericCellConfigurator-umbrella.h"
+
+  export *
+  module * { export * }
+}

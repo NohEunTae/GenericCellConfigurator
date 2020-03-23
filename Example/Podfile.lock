@@ -1,0 +1,16 @@
+PODS:
+  - GenericCellConfigurator (0.1.0)
+
+DEPENDENCIES:
+  - GenericCellConfigurator (from `../`)
+
+EXTERNAL SOURCES:
+  GenericCellConfigurator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GenericCellConfigurator: 303a18db3749be93c98cef08b4668caebcec3687
+
+PODFILE CHECKSUM: 24c1f08ad3d8fd4c512965889812b34868f523ce
+
+COCOAPODS: 1.5.3
